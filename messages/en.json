@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "f1text": "Introducing",
+    "s2text": "WhatsApp",
+    "t3text": "AI Assistant",
+    "f4text": "Chat, Create Stickers & Images, Send Voice Notes, Files, and More!",
+    "f5text": "Start now for free!",
+    "s6text": "All rights reserved",
+    "s7text": "Subscribe now!",
+    "e8text": "Or!",
+    "notFound": "404 Not found",
+    "desktopImage": "/enMob.png",
+    "mobImage": "/enMMob.png",
+    "url": "https://api.whatsapp.com/send/?phone=+201064134160&text=Hey,%20what%20can%20you%20do%3F",
+    "pleasePN": "Please choose your country and enter your phone number.",
+    "subscribe": "Subscribe",
+    "placeholder": "Enter phone number",
+    "defaultCountry": "GB",
+    "validNumber": "Please enter a valid phone number"
+  }
+}

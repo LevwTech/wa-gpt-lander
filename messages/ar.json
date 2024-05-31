@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "f1text": "نقدم",
+    "s2text": "واتس اب",
+    "t3text": "المساعد",
+    "f4text": "!تحدث، أنشئ ملصقات وصور، أرسل رسائل صوتية، ملفات، ومزايا أخري",
+    "f5text": "ابدأ الآن مجانًا!",
+    "s6text": "جميع الحقوق محفوظة",
+    "s7text": "اشترك الان!",
+    "e8text": "او!",
+    "notFound": "404 Not found",
+    "desktopImage": "/arMob.png",
+    "mobImage": "/arMMob.png",
+    "url": "https://api.whatsapp.com/send/?phone=+201064134160&text=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C%20%D9%85%D8%A7%20%D8%A7%D9%84%D8%B0%D9%8A%20%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%81%D8%B9%D9%84%D9%87%D8%9F",
+    "pleasePN": "الرجاء اختيار بلدك وإدخال رقم هاتفك.",
+    "subscribe": "اشترك",
+    "placeholder": "ادخل رقم الهاتف",
+    "defaultCountry": "SA",
+    "validNumber": "الرجاء إدخال رقم هاتف صحيح"
+  }
+}

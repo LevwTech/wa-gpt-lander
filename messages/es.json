@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "f1text": "Presentando",
+    "s2text": "WhatsApp",
+    "t3text": "Asistente",
+    "f4text": "Chatea, crea stickers e imágenes, envía notas de voz, archivos ¡y mucho más!",
+    "f5text": "¡Empiece ahora gratis!",
+    "s6text": "Reservados todos los derechos",
+    "s7text": "Suscríbete ahora!",
+    "e8text": "¡O!",
+    "notFound": "404 Not found",
+    "desktopImage": "/esMob.png",
+    "mobImage": "/esMMob.png",
+    "url": "https://api.whatsapp.com/send/?phone=+201064134160&text=Hola,%20%C2%BFqu%C3%A9%20puedes%20hacer%3F",
+    "pleasePN": "Por favor, elige tu país e introduce tu número de teléfono.",
+    "subscribe": "Suscribirse",
+    "placeholder": "Ingresar número de teléfono.",
+    "defaultCountry": "ES",
+    "validNumber": "Por favor, introduce un número de teléfono válido."
+  }
+}
